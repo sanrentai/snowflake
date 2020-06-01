@@ -1,3 +1,3 @@
-module github.com/sanrentai/snowflask
+module github.com/sanrentai/snowflake
 
 go 1.14
