@@ -1,2 +1,2 @@
-# snowflask
-53bit Snowflask
+# snowflake
+53bit snowflake
