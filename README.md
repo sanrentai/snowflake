@@ -1,2 +1,2 @@
 # snowflake
-53bit snowflake
+53 bits snowflake
